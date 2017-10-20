@@ -11,5 +11,5 @@ GitHub's automated list: [graphs/contributors](https://github.com/andy5995/mhwkb
 | [derekkramer](https://github.com/derekkramer) | |
 | [nikje94](https://github.com/nikje94) | |
 | [lauragift21](https://github.com/lauragift21) | |
-| [bealearnsecode](https://github.com/bealearnscode) | |
+| [bealearnscode](https://github.com/bealearnscode) | KB |
 | | |
